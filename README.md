@@ -13,6 +13,6 @@ The game is inspired by *Asteroids*. The player flies a ship up and down the lef
 
 **My part:** main developer. I wrote most of the game logic.
 
-**Report:** [Report_for_02113.pdf](Report_for_02113.pdf)
+**Report:** [Report.pdf](Report.pdf)
 
 *The project builds on the course's graphics/sound engine framework (© DTU). Only the game logic is ours.*
